@@ -1,0 +1,60 @@
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\bin\Debug\bd2.exe.config
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\obj\Debug\bd2.exe
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\obj\Debug\bd2.pdb
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\bin\Debug\bd2.exe
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\bin\Debug\bd2.pdb
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\bin\Debug\MySql.Data.dll
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\obj\Debug\bd2.Form1.resources
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\xMefistox\Downloads\bd2 (3)\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\bin\Debug\bd2.exe.config
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\obj\Debug\bd2.exe
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\obj\Debug\bd2.pdb
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\bin\Debug\bd2.exe
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\bin\Debug\bd2.pdb
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\bin\Debug\MySql.Data.dll
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\obj\Debug\bd2.Form1.resources
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\obj\Debug\bd2.Properties.Resources.resources
+D:\Studia\5 semestr\Bazy Danych 2\Projekt\aplikacja\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache

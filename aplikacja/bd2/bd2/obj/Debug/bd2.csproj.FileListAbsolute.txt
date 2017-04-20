@@ -1,0 +1,30 @@
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\Jakub\Desktop\projekt bd\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\xMefistox\Downloads\bd2\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\bd2.exe.config
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.exe
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\bd2.exe
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\bd2.pdb
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\bin\Debug\MySql.Data.dll
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.Form1.resources
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.Properties.Resources.resources
+C:\Users\Jakub\Desktop\bd2_hoteldziala\bd2\bd2\obj\Debug\bd2.csproj.GenerateResource.Cache
